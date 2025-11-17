@@ -1,4 +1,4 @@
-# Porject Name: HandSync 
+# Project Name: HandSync 
 # EagleHacks 2025 First Place Winners at Florida Gulf Coast University
 # Developers: Amber Jones, Kylen Bregula, Isaiah Herard, and Katharine Ringo
 # Dates: 02/21/25 - 02/23/25
